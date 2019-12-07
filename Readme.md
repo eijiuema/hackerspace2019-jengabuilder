@@ -38,7 +38,7 @@ Para controlar os motores de passo, foi necessária a biblioteca [CheapStepper](
 4. Implementamos funções para construir niveis pares, e niveis ímpares da torre, usando as funções citadas anteriormente.
 5. Implementamos um programa que dadas as dimensões das peças, constrói uma torre de Jenga da altura desejada (máx 15 niveis).
 
-Obs: as funções e o programa citados acima estão disponíveis no arquivo *jengabuilder.ino*
+Obs: as funções e o programa citados acima estão disponíveis no arquivo *código/jengabuilder.ino*
 
 ## Experimento
 
