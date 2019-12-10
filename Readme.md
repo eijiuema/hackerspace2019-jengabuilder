@@ -58,8 +58,8 @@ Por enquanto, apenas a garra e um eixo foram construídos. Com essas partes foi 
 * Ágata Rangel Drigo
 * Anderson Pinheiro Garrote
 * André Matheus Bariani Trava
-* Thiago Yussuki Uehara
 * Gabriel Eiji Uema Martin
+* Thiago Yussuki Uehara
 
 ## Demais anotações e referências
 
@@ -71,19 +71,19 @@ Para o controle dos motores de passo foi usada a biblioteca [CheapStepper](https
 
 ## Imagens/screenshots
 
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/modelo.png" width=250>
+<img src="imagens/modelo.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/28BYJ-48.png" width=250>
+<img src="imagens/28BYJ-48.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/Driver.png" width=250>
+<img src="imagens/Driver.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/motorSG90.png" width=250>
+<img src="imagens/motorSG90.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/Arduino.png" width=250>
+<img src="imagens/Arduino.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/Breadboard.png" width=250>
+<img src="imagens/Breadboard.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/claw_parts.png" width=250>
+<img src="imagens/claw_parts.png" width=250>
 <br>
-<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/arquitetura.png">
+<img src="imagens/arquitetura.png">
 <br>
