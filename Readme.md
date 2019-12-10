@@ -70,10 +70,20 @@ A estrutura da garra foi baseada no projeto [Robotic Gripper / Clamp. Two Degree
 Para o controle dos motores de passo foi usada a biblioteca [CheapStepper](https://github.com/tyhenry/CheapStepper).
 
 ## Imagens/screenshots
-É necessário colocar pelo menos 3 imagens/screenshots do projeto, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
 
-Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando (abrir este Readme no modo raw ou como txt):
-
-![Imagem](https://github.com/Infinitemarcus/Hackerspace-template/blob/master/exemplo.png)
-
-É preferível que vocês usem imagens hospedadas no próprio GitHub do projeto. É só referenciar o link delas no comando acima.
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/modelo.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/28BYJ-48.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/Driver.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/motorSG90.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/Arduino.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/Breadboard.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/claw_parts.png" width=250>
+<br>
+<img src="https://github.com/eijiuema/hackerspace2019-jengabuilder/blob/master/imagens/arquitetura.png">
+<br>
